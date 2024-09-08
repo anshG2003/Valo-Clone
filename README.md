@@ -2,18 +2,6 @@
 
 [Valorant](https://playvalorant.com/en-us/) website Clone using React and Tailwind CSS
 
-## Live Demo
-
-[View Live Demo](https://valorant-clone.vercel.app/)
-
-## PageSpeed Insights
-
-![screenshot](pagespeed-insights.png)
-
-## Screenshot
-
-![screenshot](screenshot.png)
-
 ## Built With
 
 - [React](https://reactjs.org/)
